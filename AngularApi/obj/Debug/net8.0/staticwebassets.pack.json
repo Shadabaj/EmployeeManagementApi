@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\AngularApi\\AngularApi\\wwwroot\\images\\20250318T104232771.JPG",
+      "PackagePath": "staticwebassets\\images\\20250318T104232771.JPG"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\AngularApi\\AngularApi\\wwwroot\\images\\20250320T055436370.JPG",
+      "PackagePath": "staticwebassets\\images\\20250320T055436370.JPG"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UIAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UIAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UIAPI.props",
+      "PackagePath": "build\\UIAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UIAPI.props",
+      "PackagePath": "buildMultiTargeting\\UIAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UIAPI.props",
+      "PackagePath": "buildTransitive\\UIAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
