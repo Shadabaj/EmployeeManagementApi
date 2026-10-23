@@ -1,0 +1,51 @@
+# Build output
+**/bin/
+**/obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+out/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.pdb
+*.opendb
+*.VC.db
+
+# Test and coverage output
+TestResults/
+coverage/
+coverage.*.json
+
+# IDE and editor state
+.idea/
+.vscode/
+*.swp
+*.swn
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Local environment and secret files
+.env
+.env.*
+!.env.example
+**/secrets*.json
+**/appsettings.Local.json
+**/appsettings.*.Local.json
+**/appsettings.*.local.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
